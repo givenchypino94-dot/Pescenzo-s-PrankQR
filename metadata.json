@@ -1,0 +1,6 @@
+{
+  "name": "Pescenzo's PrankQR",
+  "description": "Un'applicazione per creare scherzi personalizzati. Carica un'immagine e un file audio MP3, genera un codice QR e, quando qualcuno lo scansiona, visualizza una finta informativa sui cookie che, al clic, riproduce l'immagine e l'audio all'istante.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
